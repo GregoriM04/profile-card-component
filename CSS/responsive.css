@@ -1,0 +1,282 @@
+/* MEDIA QUERY APPLIED */
+@media (min-width: 1515px) {
+    .bg-pattern-top {
+        left: -225px;
+    }
+
+    .bg-pattern-bottom {
+        right: -221px;
+    }
+}
+
+@media (min-width: 1600px) {
+    .bg-pattern-top {
+        left: -182px;
+    }
+
+    .bg-pattern-bottom {
+        right: -180px;
+    }
+}
+
+@media (min-width: 1690px) {
+    .bg-pattern-top {
+        left: -140px;
+    }
+
+    .bg-pattern-bottom {
+        right: -135px;
+    }
+}
+
+@media (min-width: 1770px) {
+    .bg-pattern-top {
+        left: -100px;
+    }
+
+    .bg-pattern-bottom {
+        right: -94px;
+    }
+}
+
+@media (min-width: 1850px) {
+    .bg-pattern-top {
+        left: -60px;
+    }
+
+    .bg-pattern-bottom {
+        right: -55px;
+    }
+}
+
+@media (min-width: 1920px) {
+    .bg-pattern-top {
+        left: -24px;
+    }
+
+    .bg-pattern-bottom {
+        right: -20px;
+    }
+}
+
+
+@media (max-width: 1360px) {
+    .bg-pattern-top {
+        left: -307px;
+    }
+
+    .bg-pattern-bottom {
+        right: -298px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .bg-pattern-top {
+        left: -335px;
+    }
+
+    .bg-pattern-bottom {
+        right: -325px;
+    }
+}
+
+@media (max-width: 1240px) {
+    .bg-pattern-top {
+        left: -365px;
+    }
+
+    .bg-pattern-bottom {
+        right: -360px;
+    }
+}
+
+@media (max-width: 1180px) {
+    .bg-pattern-top {
+        left: -395px;
+    }
+
+    .bg-pattern-bottom {
+        right: -388px;
+    }
+}
+
+@media (max-width: 1120px) {
+    .bg-pattern-top {
+        left: -424px;
+    }
+
+    .bg-pattern-bottom {
+        right: -418px;
+    }
+}
+
+@media (max-width: 1060px) {
+    .bg-pattern-top {
+        left: -455px;
+    }
+
+    .bg-pattern-bottom {
+        right: -450px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .bg-pattern-top {
+        left: -486px;
+    }
+
+    .bg-pattern-bottom {
+        right: -478px;
+    }
+}
+
+@media (max-width: 940px) {
+    .bg-pattern-top {
+        left: -515px;
+    }
+
+    .bg-pattern-bottom {
+        right: -508px;
+    }
+}
+
+@media (max-width: 880px) {
+    .bg-pattern-top {
+        left: -544px;
+    }
+
+    .bg-pattern-bottom {
+        right: -538px;
+    }
+}
+
+@media (max-width: 820px) {
+    .bg-pattern-top {
+        left: -576px;
+    }
+
+    .bg-pattern-bottom {
+        right: -569px;
+    }
+}
+
+@media (max-width: 755px) {
+    .bg-pattern-top {
+        left: -608px;
+    }
+
+    .bg-pattern-bottom {
+        right: -600px;
+    }
+}
+
+@media (max-width: 690px) {
+    .bg-pattern-top {
+        left: -639px;
+    }
+
+    .bg-pattern-bottom {
+        right: -633px;
+    }
+}
+
+@media (max-width: 678px) {
+    .title {
+        font-size: 26px;
+    }
+
+    .user_images>:nth-child(1) {
+        width: 305px;
+    }
+
+    .card {
+        width: 305px;
+    }
+
+    .user_stat {
+        width: 305px;
+    }
+
+    .user_name {
+        top: 178px;
+        left: 80px;
+    }
+
+    .user_city {
+        top: 213px;
+        right: 131px;
+    }
+}
+
+@media (max-width: 630px) {
+    .bg-pattern-top {
+        left: -665px;
+    }
+
+    .bg-pattern-bottom {
+        right: -663px;
+    }
+}
+
+@media (max-width: 570px) {
+    .bg-pattern-top {
+        left: -688px;
+    }
+
+    .bg-pattern-bottom {
+        right: -692px;
+    }
+}
+
+@media (max-width: 515px) {
+    .bg-pattern-top {
+        left: -712px;
+    }
+
+    .bg-pattern-bottom {
+        right: -722px;
+    }
+}
+
+@media (max-width: 465px) {
+    .bg-pattern-top {
+        left: -740px;
+    }
+
+    .bg-pattern-bottom {
+        right: -747px;
+    }
+}
+
+@media (max-width: 410px) {
+    .bg-pattern-top {
+        left: -768px;
+    }
+
+    .bg-pattern-bottom {
+        right: -774px;
+    }
+}
+
+@media (max-width: 350px) {
+    .bg-pattern-top {
+        left: -798px;
+    }
+}
+
+@media (min-height: 721px) {
+    .title {
+        margin-top: 200px;
+    }
+    .bg-pattern-top {
+        top: -430px;
+    }
+    
+    .bg-pattern-bottom {
+        top: 410px;
+    }
+
+    .profile_card {
+        margin-top: 280px;
+    }
+}
