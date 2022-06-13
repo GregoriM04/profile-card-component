@@ -115,8 +115,7 @@ header {
 
 .user_name .user_num {
     font-weight: 400;
-    position: absolute;
-    left: 112px;
+    margin-left: 4px;
     color: var(--Dark-grayish-blue);
 }
 
@@ -134,7 +133,7 @@ header {
     display: flex;
     width: 315px;
     justify-content: space-around;
-    margin: 10px 10px 5px 10px;
+    margin: 15px 10px 10px 10px;
     border-top: 0.1px solid var(--Dark-gray);
     transform: translateY(11%);
     padding: 0 15px;
