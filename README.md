@@ -28,8 +28,8 @@ Here's a screenshot of what I just did.
 
 ### Links
 
-- Repository URL: [Click here](https://your-solution-url.com)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Repository URL: [Click here](https://github.com/GregoriM04/profile-card-component.git)
+- Live Site URL: [Click here](https://gregorim04.github.io/profile-card-component/)
 
 ## My process
 
