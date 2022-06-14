@@ -46,7 +46,7 @@ Throughout these proyect, I have learnig a little bit more about positioning ele
 
 ### Continued development
 
-It is essential to keep practicing this sort of challenges, because practice makes perfect.
+It is essential to keep practicing these sort of challenges, because practice makes perfect.
 
 ## Author
 
